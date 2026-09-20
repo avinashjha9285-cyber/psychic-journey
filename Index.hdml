@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Paidal For Education Company</title>
+ <style>
+ body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; color: #333; background-color: #f9f9f9; }
+ header { background: #ffffff; color: #0047ab; padding: 1rem 0; text-align: center; border-bottom: 2px solid #0047ab; }
+ header img { max-width: 150px; height: auto; }
+ nav { background: #0047ab; color: #fff; padding: 0.75rem 0; text-align: center; }
+ nav a { color: #fff; margin: 0 1rem; text-decoration: none; font-weight: bold; }
+ .container { width: 85%; margin: 2rem auto; overflow: hidden; }
+ section { background: #fff; padding: 2.5rem; margin-bottom: 2rem; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+ h2 { color: #0047ab; border-bottom: 2px solid #0047ab; padding-bottom: 0.5rem; }
+ .story-grid { display: flex; gap: 2rem; margin-top: 1.5rem; }
+ .story-box { background: #f0f4f8; padding: 1.5rem; border-left: 5px solid #0047ab; border-radius: 8px; flex: 1; }
+ .product-grid { display: flex; gap: 2rem; margin-top: 1.5rem; }
+ .product-box { background: #f0f4f8; padding: 1.5rem; border: 1px solid #0047ab; border-radius: 8px; flex: 1; text-align: center; }
+ .contact-details { margin-top: 1.5rem; }
+ .contact-details p { margin: 0.5rem 0; font-size: 1.1rem; }
+ footer { background: #333; color: #fff; text-align: center; padding: 1.5rem 0; }
+ </style>
+</head>
+<body>
+ <header>
+ <img src="logo.png" alt="Paidal For Education Company Logo">
+ <h1>Paidal For Education Company</h1>
+ <p>आधी कीमत शिक्षा और कौशल विकास</p>
+ </header>
+ <nav>
+ <a href="#about">About Us</a>
+ <a href="#stories">Inspirational Stories</a>
+ <a href="#products">Kits & Products</a>
+ <a href="#contact">Contact Us</a>
+ </nav>
+ <div class="container">
+ <section id="about">
+ <h2>About Us</h2>
+ <p>हम समाज की सेवा करने के लिए प्रतिबद्ध हैं। हमारा लक्ष्य हर ज़रूरतमंद तक शिक्षा और रोज़गार के साधन पहुँचाना है।</p>
+ </section>
+ <section id="stories">
+ <h2>Inspirational Stories</h2>
+ <div class="story-grid">
+ <div class="story-box">
+ <h3>Child's Journey</h3>
+ <p>Inspired by seeing children walking miles to school, we decided to provide cycles to bridge the distance.</p>
+ </div>
+ <div class="story-box">
+ <h3>Women's Empowerment</h3>
+ <p>We aim to make women self-reliant through skill development, providing them with sewing machines and training.</p>
+ </div>
+ </div>
+ </section>
+ <section id="products">
+ <h2>Education & Employment Kits</h2>
+ <div class="product-grid">
+ <div class="product-box">
+ <h3>Training & Sewing Kit</h3>
+ <p>Includes 15 days of training, sewing machine, stand, and total products.</p>
+ <p><strong>Price: ₹4,500</strong></p>
+ </div>
+ <div class="product-box">
+ <h3>Bicycle Model</h3>
+ <p>High-quality bicycle designed for easy commute to school.</p>
+ <p><strong>Price: ₹3,000</strong></p>
+ </div>
+ <div class="product-box">
+ <h3>Registration Form Charge</h3>
+ <p>Initial application and processing fee.</p>
+ <p><strong>Price: ₹200</strong></p>
+ </div>
+ </div>
+ </section>
+ <section id="contact">
+ <h2>Contact Us</h2>
+ <div class="contact-details">
+ <p>Email: info@paidalforeducation.com</p>
+ <p>Mobile: +91-9798037739</p>
+ <p>WhatsApp: +91-9798037739</p>
+ <p>Instagram: @_avinash_1.4.3_</p>
+ </div>
+ </section>
+ </div>
+ <footer>
+ <p>&copy; 2026 Paidal For Education Company</p>
+ </footer>
+</body>
+</html>
+
